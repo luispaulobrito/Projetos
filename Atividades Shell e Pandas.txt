@@ -1,0 +1,14 @@
+Atividades com Shell:
+
+Mover vários arquivos de uma pasta para outra usando o comando mv.
+Converter vários arquivos de um formato para outro usando o comando ffmpeg ou convert (dependendo do formato).
+Copiar arquivos de um local para outro usando o comando cp.
+Criar backups de arquivos e pastas usando o comando tar.
+Agendar tarefas automatizadas usando o utilitário cron.
+Atividades com Python e Pandas:
+
+Carregar dados de um arquivo CSV, XLSX ou JSON usando a biblioteca Pandas.
+Limpar e transformar dados usando recursos como a função dropna para excluir valores ausentes e a função fillna para preencher valores ausentes.
+Agrupar dados por categorias usando a função groupby.
+Calcular estatísticas descritivas, como média, mediana e desvio padrão, usando a função describe.
+Criar visualizações de dados usando bibliotecas de visualização de dados como Matplotlib, Seaborn ou Plotly.
