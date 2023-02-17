@@ -3,7 +3,7 @@ git add .
 echo "Adicionado"
 git status
 
-read -p "Digite a mensagem" mensagem
+read -p "Digite a mensagem: " mensagem
 git commit -m "$mensagem"
 echo "Comitado"
 git status
