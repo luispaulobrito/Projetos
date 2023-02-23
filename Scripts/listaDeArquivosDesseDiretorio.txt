@@ -1,3 +1,8 @@
+arquivosTXT
+dadosClientes
+dadosClientesCorrigidos
+exercicio02.sh
+exercicio03.sh
 listaDeArquivosDesseDiretorio.cvs
 listaDeArquivosDesseDiretorio.txt
 listaDeArquivosDesseDiretorio.xlsx
