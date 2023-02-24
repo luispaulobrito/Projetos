@@ -1,0 +1,71 @@
+Código Venda,Data,ID Loja,Produto,Quantidade,Valor Unitário,Valor Final
+23,2019-01-02,Center Shopping Uberlândia,Bermuda Estampa,3,169,507
+40,2019-01-02,Shopping Eldorado,Bermuda Linho,1,195,195
+43,2019-01-02,Shopping Eldorado,Calça,1,170,170
+5,2019-01-02,Shopping Barra,Calça,1,170,170
+44,2019-01-02,Shopping Ibirapuera,Calça,2,170,340
+19,2019-01-02,Passei das Águas Shopping,Calça Linho,2,211,422
+22,2019-01-02,Parque Dom Pedro Shopping,Calça Liso,2,190,380
+46,2019-01-02,Rio Mar Recife,Calça Liso,2,190,380
+11,2019-01-02,Shopping Recife,Calça Listrado,2,181,362
+46,2019-01-02,Rio Mar Recife,Camisa,1,100,100
+33,2019-01-02,Shopping Midway Mall,Camisa,1,100,100
+18,2019-01-02,Rio Mar Shopping Fortaleza,Camisa Estampa,1,113,113
+11,2019-01-02,Shopping Recife,Camisa Estampa,1,113,113
+34,2019-01-02,Iguatemi Esplanada,Camisa Gola V Liso,2,118,236
+7,2019-01-02,Norte Shopping,Camisa Gola V Listrado,1,116,116
+21,2019-01-02,Iguatemi Esplanada,Camisa Gola V Listrado,2,116,232
+45,2019-01-02,Shopping Recife,Camisa Linho,1,141,141
+44,2019-01-02,Shopping Ibirapuera,Camisa Liso,2,105,210
+7,2019-01-02,Norte Shopping,Camisa Liso,1,105,105
+44,2019-01-02,Shopping Ibirapuera,Camisa Listrado,1,108,108
+1,2019-01-01,Iguatemi Esplanada,Camiseta,2,180,360
+11,2019-01-02,Shopping Recife,Camiseta,1,180,180
+10,2019-01-02,Passei das Águas Shopping,Camiseta Xadrez,2,200,400
+31,2019-01-02,Shopping Eldorado,Casaco Estampa,3,256,768
+14,2019-01-02,Bourbon Shopping SP,Casaco Liso,2,255,510
+9,2019-01-02,Shopping Center Leste Aricanduva,Casaco Xadrez,2,259,518
+26,2019-01-02,Shopping União de Osasco,Chinelo,2,60,120
+42,2019-01-02,Shopping União de Osasco,Chinelo,2,60,120
+40,2019-01-02,Shopping Eldorado,Chinelo Estampa,1,74,74
+17,2019-01-02,Iguatemi Campinas,Chinelo Liso,1,71,71
+2,2019-01-02,Norte Shopping,Chinelo Liso,1,71,71
+23,2019-01-02,Center Shopping Uberlândia,Chinelo Liso,3,71,213
+46,2019-01-02,Rio Mar Recife,Cinto,1,200,200
+31,2019-01-02,Shopping Eldorado,Cinto Linho,3,248,744
+3,2019-01-02,Rio Mar Shopping Fortaleza,Cinto Linho,1,248,248
+51,2019-01-02,Parque Dom Pedro Shopping,Cinto Listrado,1,214,214
+48,2019-01-02,Shopping Midway Mall,Cueca Linho,2,93,186
+10,2019-01-02,Passei das Águas Shopping,Cueca Liso,1,69,69
+41,2019-01-02,Novo Shopping Ribeirão Preto,Gorro,1,80,80
+31,2019-01-02,Shopping Eldorado,Gorro Linho,1,124,124
+29,2019-01-02,Shopping Center Leste Aricanduva,Gorro Liso,4,92,368
+22,2019-01-02,Parque Dom Pedro Shopping,Meia,1,30,30
+22,2019-01-02,Parque Dom Pedro Shopping,Meia Linho,2,78,156
+36,2019-01-02,Rio Mar Shopping Fortaleza,Meia Listrado,1,37,37
+33,2019-01-02,Shopping Midway Mall,Meia Xadrez,3,41,123
+38,2019-01-02,Shopping Vila Velha,Meia Xadrez,3,41,123
+20,2019-01-02,Shopping Center Interlagos,Mochila Liso,1,276,276
+32,2019-01-02,Shopping Vila Velha,Polo Liso,1,137,137
+32,2019-01-02,Shopping Vila Velha,Polo Listrado,2,149,298
+6,2019-01-02,Shopping Ibirapuera,Polo Listrado,4,149,596
+31,2019-01-02,Shopping Eldorado,Pulseira,3,70,210
+35,2019-01-02,Parque Dom Pedro Shopping,Relógio,2,200,400
+38,2019-01-02,Shopping Vila Velha,Relógio,1,200,200
+2,2019-01-02,Norte Shopping,Relógio,3,200,600
+19,2019-01-02,Passei das Águas Shopping,Relógio Listrado,1,218,218
+35,2019-01-02,Parque Dom Pedro Shopping,Sapato,2,350,700
+1,2019-01-01,Iguatemi Esplanada,Sapato Estampa,1,358,358
+49,2019-01-02,Iguatemi Esplanada,Sapato Liso,1,368,368
+34,2019-01-02,Iguatemi Esplanada,Sapato Listrado,1,363,363
+1,2019-01-01,Iguatemi Esplanada,Sapato Xadrez,1,368,368
+47,2019-01-02,Palladium Shopping Curitiba,Short,1,90,90
+41,2019-01-02,Novo Shopping Ribeirão Preto,Short Xadrez,4,100,400
+12,2019-01-02,Shopping Midway Mall,Short Xadrez,4,100,400
+27,2019-01-02,Rio Mar Shopping Fortaleza,Sunga Linho,1,149,149
+43,2019-01-02,Shopping Eldorado,Sunga Linho,1,149,149
+12,2019-01-02,Shopping Midway Mall,Sunga Liso,2,114,228
+8,2019-01-02,Iguatemi Campinas,Terno Estampa,5,706,3530
+27,2019-01-02,Rio Mar Shopping Fortaleza,Terno Listrado,2,709,1418
+49,2019-01-02,Iguatemi Esplanada,Terno Xadrez,3,709,2127
+9,2019-01-02,Shopping Center Leste Aricanduva,Tênis Linho,1,294,294
