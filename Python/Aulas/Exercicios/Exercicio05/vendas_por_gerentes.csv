@@ -1,0 +1,71 @@
+ID Loja,Gerente,Código Venda,Data,Produto,Quantidade,Valor Unitário,Valor Final
+Iguatemi Esplanada,Salvador,1,2019-01-01,Sapato Estampa,1,358,358
+Iguatemi Esplanada,Salvador,1,2019-01-01,Camiseta,2,180,360
+Iguatemi Esplanada,Salvador,1,2019-01-01,Sapato Xadrez,1,368,368
+Iguatemi Esplanada,Salvador,21,2019-01-02,Camisa Gola V Listrado,2,116,232
+Iguatemi Esplanada,Salvador,34,2019-01-02,Sapato Listrado,1,363,363
+Iguatemi Esplanada,Salvador,34,2019-01-02,Camisa Gola V Liso,2,118,236
+Iguatemi Esplanada,Salvador,49,2019-01-02,Terno Xadrez,3,709,2127
+Iguatemi Esplanada,Salvador,49,2019-01-02,Sapato Liso,1,368,368
+Norte Shopping,Joana,2,2019-01-02,Relógio,3,200,600
+Norte Shopping,Joana,2,2019-01-02,Chinelo Liso,1,71,71
+Norte Shopping,Joana,7,2019-01-02,Camisa Gola V Listrado,1,116,116
+Norte Shopping,Joana,7,2019-01-02,Camisa Liso,1,105,105
+Rio Mar Shopping Fortaleza,Maria,3,2019-01-02,Cinto Linho,1,248,248
+Rio Mar Shopping Fortaleza,Maria,18,2019-01-02,Camisa Estampa,1,113,113
+Rio Mar Shopping Fortaleza,Maria,27,2019-01-02,Sunga Linho,1,149,149
+Rio Mar Shopping Fortaleza,Maria,27,2019-01-02,Terno Listrado,2,709,1418
+Rio Mar Shopping Fortaleza,Maria,36,2019-01-02,Meia Listrado,1,37,37
+Shopping Barra,Letícia,5,2019-01-02,Calça,1,170,170
+Shopping Ibirapuera,Helena,6,2019-01-02,Polo Listrado,4,149,596
+Shopping Ibirapuera,Helena,44,2019-01-02,Calça,2,170,340
+Shopping Ibirapuera,Helena,44,2019-01-02,Camisa Listrado,1,108,108
+Shopping Ibirapuera,Helena,44,2019-01-02,Camisa Liso,2,105,210
+Iguatemi Campinas,Luiza,8,2019-01-02,Terno Estampa,5,706,3530
+Iguatemi Campinas,Luiza,17,2019-01-02,Chinelo Liso,1,71,71
+Shopping Center Leste Aricanduva,Julia,9,2019-01-02,Tênis Linho,1,294,294
+Shopping Center Leste Aricanduva,Julia,9,2019-01-02,Casaco Xadrez,2,259,518
+Shopping Center Leste Aricanduva,Julia,29,2019-01-02,Gorro Liso,4,92,368
+Passei das Águas Shopping,Nicole,10,2019-01-02,Camiseta Xadrez,2,200,400
+Passei das Águas Shopping,Nicole,10,2019-01-02,Cueca Liso,1,69,69
+Passei das Águas Shopping,Nicole,19,2019-01-02,Relógio Listrado,1,218,218
+Passei das Águas Shopping,Nicole,19,2019-01-02,Calça Linho,2,211,422
+Shopping Recife,André,11,2019-01-02,Camiseta,1,180,180
+Shopping Recife,André,11,2019-01-02,Calça Listrado,2,181,362
+Shopping Recife,André,11,2019-01-02,Camisa Estampa,1,113,113
+Shopping Recife,André,45,2019-01-02,Camisa Linho,1,141,141
+Shopping Midway Mall,João,12,2019-01-02,Short Xadrez,4,100,400
+Shopping Midway Mall,João,12,2019-01-02,Sunga Liso,2,114,228
+Shopping Midway Mall,João,33,2019-01-02,Camisa,1,100,100
+Shopping Midway Mall,João,33,2019-01-02,Meia Xadrez,3,41,123
+Shopping Midway Mall,João,48,2019-01-02,Cueca Linho,2,93,186
+Bourbon Shopping SP,Marcus,14,2019-01-02,Casaco Liso,2,255,510
+Shopping Center Interlagos,Amanda,20,2019-01-02,Mochila Liso,1,276,276
+Parque Dom Pedro Shopping,Carol,22,2019-01-02,Meia,1,30,30
+Parque Dom Pedro Shopping,Carol,22,2019-01-02,Meia Linho,2,78,156
+Parque Dom Pedro Shopping,Carol,22,2019-01-02,Calça Liso,2,190,380
+Parque Dom Pedro Shopping,Carol,35,2019-01-02,Relógio,2,200,400
+Parque Dom Pedro Shopping,Carol,35,2019-01-02,Sapato,2,350,700
+Parque Dom Pedro Shopping,Carol,51,2019-01-02,Cinto Listrado,1,214,214
+Center Shopping Uberlândia,Andressa,23,2019-01-02,Bermuda Estampa,3,169,507
+Center Shopping Uberlândia,Andressa,23,2019-01-02,Chinelo Liso,3,71,213
+Shopping União de Osasco,Lilia,26,2019-01-02,Chinelo,2,60,120
+Shopping União de Osasco,Lilia,42,2019-01-02,Chinelo,2,60,120
+Shopping Eldorado,Paulo,31,2019-01-02,Casaco Estampa,3,256,768
+Shopping Eldorado,Paulo,31,2019-01-02,Pulseira,3,70,210
+Shopping Eldorado,Paulo,31,2019-01-02,Gorro Linho,1,124,124
+Shopping Eldorado,Paulo,31,2019-01-02,Cinto Linho,3,248,744
+Shopping Eldorado,Paulo,40,2019-01-02,Bermuda Linho,1,195,195
+Shopping Eldorado,Paulo,40,2019-01-02,Chinelo Estampa,1,74,74
+Shopping Eldorado,Paulo,43,2019-01-02,Sunga Linho,1,149,149
+Shopping Eldorado,Paulo,43,2019-01-02,Calça,1,170,170
+Shopping Vila Velha,Pablo,32,2019-01-02,Polo Liso,1,137,137
+Shopping Vila Velha,Pablo,32,2019-01-02,Polo Listrado,2,149,298
+Shopping Vila Velha,Pablo,38,2019-01-02,Meia Xadrez,3,41,123
+Shopping Vila Velha,Pablo,38,2019-01-02,Relógio,1,200,200
+Novo Shopping Ribeirão Preto,Diana,41,2019-01-02,Gorro,1,80,80
+Novo Shopping Ribeirão Preto,Diana,41,2019-01-02,Short Xadrez,4,100,400
+Rio Mar Recife,Ana,46,2019-01-02,Camisa,1,100,100
+Rio Mar Recife,Ana,46,2019-01-02,Calça Liso,2,190,380
+Rio Mar Recife,Ana,46,2019-01-02,Cinto,1,200,200
+Palladium Shopping Curitiba,Flavia,47,2019-01-02,Short,1,90,90
